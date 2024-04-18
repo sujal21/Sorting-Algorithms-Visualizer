@@ -11,9 +11,9 @@ To run this project on your own computer, follow these steps:
 
 3. Open a terminal window and navigate to the project directory.
 
-4. Install dependencies by running: **<span style="color:blue;">npm install</span>**
+4. Install dependencies by running: **npm install**
 
-5. Once the dependencies are installed, start the development server by running: **<span style="color:blue;">npm start</span>**
+5. Once the dependencies are installed, start the development server by running: **npm start**
   
 6. The project will now be running and accessible at http://localhost:3000 in your web browser.
 
